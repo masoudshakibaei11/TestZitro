@@ -1,0 +1,17 @@
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Application.deps.json
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Application.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Application.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Domain.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Infrastructure.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Domain.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\bin\Debug\net9.0\OnlineShopZitro.Infrastructure.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.csproj.AssemblyReference.cache
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.AssemblyInfoInputs.cache
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.AssemblyInfo.cs
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineSh.FB92AC2E.Up2Date
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\refint\OnlineShopZitro.Application.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\OnlineShopZitro.Application.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Application\obj\Debug\net9.0\ref\OnlineShopZitro.Application.dll

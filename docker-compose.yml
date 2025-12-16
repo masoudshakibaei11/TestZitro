@@ -1,0 +1,64 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: onlineshop-zitro-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    command: redis-server --appendonly yes
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+    networks:
+      - onlineshop-network
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: onlineshop-zitro-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    networks:
+      - onlineshop-network
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: onlineshop-zitro-api
+    ports:
+      - "5000:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+      Redis__ConnectionString: redis:6379
+      RabbitMQ__Host: rabbitmq
+      RabbitMQ__Port: 5672
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    networks:
+      - onlineshop-network
+
+volumes:
+  redis-data:
+  rabbitmq-data:
+
+networks:
+  onlineshop-network:
+    driver: bridge

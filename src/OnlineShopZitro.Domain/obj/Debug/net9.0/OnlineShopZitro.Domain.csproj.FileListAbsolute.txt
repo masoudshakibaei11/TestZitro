@@ -1,0 +1,11 @@
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.AssemblyInfoInputs.cache
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.AssemblyInfo.cs
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\bin\Debug\net9.0\OnlineShopZitro.Domain.deps.json
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\bin\Debug\net9.0\OnlineShopZitro.Domain.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\bin\Debug\net9.0\OnlineShopZitro.Domain.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\refint\OnlineShopZitro.Domain.dll
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\OnlineShopZitro.Domain.pdb
+C:\Users\Masoud\Desktop\OnlineShope_Zitro\src\OnlineShopZitro.Domain\obj\Debug\net9.0\ref\OnlineShopZitro.Domain.dll
