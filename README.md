@@ -25,7 +25,7 @@
 اجرای پروژه با dotnet run
 
 
-## 5️⃣ ساختار پروژه (Project Structure)
+## ساختار پروژه (Project Structure)
 - توضیح مختصر از لایه‌ها:
 ## Project Structure
 
